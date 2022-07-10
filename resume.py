@@ -3,7 +3,7 @@ print()
 
 def say_hi(name):
     print()
-    print("Hi " + name + ", I'm Phil Campbell")
+    print("Hi " + name + ", I'm Pxxx Cxxxxxx")
     print()
 
 
@@ -19,7 +19,7 @@ important_to_me = "Fun, Family and Work/Life Balance."
 experience = "Banking, Solar Power, Businesses, Hospitality and Government."
 learning = "Python Coding Language & Blockchain Technology now and NET+, SEC+ and CEH in the near future."
 interested_in = "Blockchain, Help Desk, Ethical Hacking, NFT's, Software Development and Crypto Trading."
-finished = ("Thank you for considering me! " + "Phil Campbell - " + email + " - " + mobile)
+finished = ("Thank you for considering me! " + "Pxxx Cxxxxxxx - " + email + " - " + mobile)
 
 
 print("Please select a number to know more... ")
